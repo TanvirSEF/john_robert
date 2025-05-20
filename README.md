@@ -4,7 +4,7 @@ Introducing the John Roberts Web Application, your one-stop destination for acce
 
 Live Website:
 <br/>
-View: https://incandescent-youtiao-f3fe19.netlify.app/
+View: https://johnroberts.netlify.app/
 <br/>
 
 ## Installation
