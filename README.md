@@ -4,7 +4,7 @@ Introducing the John Roberts Web Application, your one-stop destination for acce
 
 Live Website:
 <br/>
-View: https://johnroberts.netlify.app/
+View: 
 <br/>
 
 ## Installation
@@ -48,4 +48,4 @@ View: https://johnroberts.netlify.app/
 
 ## Authors
 
-- [@mdiktushar](https://www.github.com/mdiktushar)
+- [@TanvirSEF](https://www.github.com/TanvirSEF)
