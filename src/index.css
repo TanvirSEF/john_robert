@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS for smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Nav Bar Start .......... */
+.navRoute a.active {
+  font-weight: 500;
+  color: #5f4ecb;
+}
+/* Nav Bar End ............ */
+
+/* Header Font Start ........ */
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+/* Header Font End ........ */
+
+.TimeNewRoman {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Footer Start ................ */
+
+/* Footer End ................ */
